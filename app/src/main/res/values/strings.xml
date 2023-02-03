@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StarWars</string>
+    <string name="texto_starwars">Hace mucho tiempo, en una galaxia muy, muy lejana... Luke Skywalker ha regresado a su planeta hogar Tatooine, en su intento por rescatar a su amigo Han Solo de las garras del malvado Java</string>
+    <string name="texto_logo" translatable="false">Star Wars Cesar Luna</string>
+</resources>
